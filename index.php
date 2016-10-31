@@ -6,12 +6,9 @@
  * Time: 22:28
  */
 echo 'Hello World!!!';
-echo 'Hello World!!!';
-echo 'Hello World!!!';
+echo 'Hi!';
 echo 'Hello World!!!3';
 ?>
 dsfsdlkfs
 df
-sdf
-sdfsd
 fbsql_affected_rows
