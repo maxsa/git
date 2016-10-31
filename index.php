@@ -14,3 +14,4 @@ dsfsdlkfs
 df
 sdfsdfd
 fbsql_affected_rows
+fbsql_affected_rows
