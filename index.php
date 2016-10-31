@@ -12,6 +12,5 @@ echo 'Hello World!!!3';
 ?>
 dsfsdlkfs
 df
-sdf
 sdfsdfd
 fbsql_affected_rows
